@@ -27,3 +27,5 @@ $ lldb .build/x86_64-unknown-linux-gnu/debug/SQLite.swiftPackageTests.xctest
 (lldb) target create ".build/x86_64-unknown-linux-gnu/debug/SQLite.swiftPackageTests.xctest"
 (lldb) run
 ```
+
+<!-- Auto-update: 2025-10-06T18:40:08.457248 -->
